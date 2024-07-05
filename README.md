@@ -4,13 +4,13 @@ This program lists the all the radio channels and programs for each channel from
 
 ## Compile
 
-```bash
+```console
 mvn package
 ```
 
 ## Run
 
-```bash
+```console
 java -target/RadioInfo-1.0-jar-with-dependencies.jar
 ```
 
